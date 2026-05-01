@@ -42,12 +42,12 @@ Output:
     "reviews": {}
   },
   "4": {
-    "author": "Unknown ",
+    "author": "Unknown",
     "title": "The Epic Of Gilgamesh",
     "reviews": {}
   },
   "5": {
-    "author": "Unknown ",
+    "author": "Unknown",
     "title": "The Book Of Job",
     "reviews": {}
   },
