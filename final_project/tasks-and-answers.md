@@ -32,13 +32,13 @@ Output:
     "reviews": {}
   },
   "2": {
-    "author": "Hans Christian Andersen ",
-    "title": "Fairy tales ",
+    "author": "Hans Christian Andersen",
+    "title": "Fairy tales",
     "reviews": {}
   },
   "3": {
-    "author": "Dante Alighieri ",
-    "title": "The Divine Comedy ",
+    "author": "Dante Alighieri",
+    "title": "The Divine Comedy",
     "reviews": {}
   },
   "4": {
